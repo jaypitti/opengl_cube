@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{88507297-ACF3-4FE1-A90E-5C242DBC4B6D}|Default">
+  <MonoDevelop.Ide.ItemProperties.opengltesting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="opengltesting/Game.cs">
+    <Files>
+      <File FileName="opengltesting/Program.cs" Line="1" Column="1" />
+      <File FileName="opengltesting/Game.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
